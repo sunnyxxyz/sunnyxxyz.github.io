@@ -1,0 +1,30 @@
+h1 {
+	padding-top: 50px;
+	padding-bottom: 25px;
+    float: left;
+    font-family:Times;
+	font-size: 10em;
+    color: aliceblue
+    
+}
+
+
+h5{padding-top: 50px;
+	padding-bottom: 25px;
+    font-family:Times;
+	font-size: 1em;color: aliceblue}
+body{	border: 2px solid #000000;
+background-color: skyblue}
+#left{
+	width: 45%;
+    height: auto;
+    float: left;
+letter-spacing: 200px;
+     color: aliceblue
+ }
+#right{
+	width: 45%;
+     height: auto;
+    float: right;
+letter-spacing: 200px;
+color: aquamarine}

@@ -1,0 +1,43 @@
+h1 {position: fixed
+	padding-top: 70px;
+	padding-bottom: 0px;
+    font-family: futura;
+    font-size: 2em;
+    color: gold;
+    
+}
+
+
+h5{padding-left: 200px;
+	padding-bottom: 25px;
+font-family: futura;
+font-style: italic;
+color: gray}
+#left{
+    font-family: futura;
+	width: 40%;
+    height: auto;
+    float: left;
+    padding-left: 15px;
+    background-color: aqua;
+border: 2px solid;
+	border-radius: 15px;letter-spacing:1px}
+
+#right{font-family: futura;
+	width: 40%;
+     height: auto;
+    float:left;border: 2px solid;
+	border-radius: 15px;
+    background-color: orangered;
+        letter-spacing:1px;
+padding-left: 15px;}
+#apple{padding-top: 300px;
+    border: 6px solid;
+        border-radius: 15px;
+    padding-left: 300px;
+    background-color: black;
+    color: white;
+        font-family: futura;
+    letter-spacing:1px;
+}
+span{color: orange;}

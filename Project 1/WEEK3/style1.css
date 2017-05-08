@@ -1,0 +1,19 @@
+h1 {
+	padding-top: 50px;
+	padding-bottom: 25px;
+    float: left;
+    
+}
+
+
+h5{padding-top: 50px;
+	padding-bottom: 25px;}
+body{	border: 2px solid #000000}
+#left{
+	width: 45%;
+    height: auto;
+    float: left;}
+#right{
+	width: 45%;
+     height: auto;
+    float: right;}

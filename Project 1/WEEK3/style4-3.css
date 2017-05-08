@@ -1,0 +1,25 @@
+body{border: 60px dashed red;
+}
+h1{
+padding-left: 400px;
+    color:blue;
+    font-size:5em;
+       font-family:monospace
+
+}
+h4{padding-left: 600px;
+    color:blue;
+    font-family: monospace;
+    font-size: 2em;
+    
+    
+}
+#first{padding-left: 200px;
+color:rebeccapurple; letter-spacing:1px}
+#second{padding-left: 860px;color: darkgreen;letter-spacing:1px;
+}
+#third{padding-left: 300px;color: cornflowerblue;letter-spacing:1px;
+}
+#fourth{padding-left: 600px;color: deeppink;letter-spacing:1px}
+#fifth{padding-left: 100px;color: brown;letter-spacing:1px}
+#sixth{padding-left: 800px;color: darkorange;letter-spacing:1px}

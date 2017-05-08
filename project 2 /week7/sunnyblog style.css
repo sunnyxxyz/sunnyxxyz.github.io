@@ -1,0 +1,91 @@
+#header{font-family: GillSans,sans-serif;display:inline}
+
+.logo{font-family:cursive;
+    text-align: center;
+    padding-left: 2em;
+    font-size: 15pt;
+    font-style:bold;
+    width:10%;
+}
+#banner {
+    background-color: #2c58ed;
+    background-size: cover;
+    min-height:600px;
+        position: relative;
+    height: 100px;
+}
+.title{font-family:sans-serif;
+padding-top:8em;
+padding-left:7em;
+    color: white;
+    line-height:50% }
+.title h2{
+font-size: 25pt;}
+.title h5{border: 10px solid;
+    color: #6f6d6d;
+    border-color: white;
+    background-color: white;
+width: 25%;
+text-align: center;}
+.myimg{padding-left:40%;}
+#content{font-family: GillSans,sans-serif;color: #4d4d4d}
+
+.imgpost{text-align: center;
+line-height:1pt;
+padding-top: 50px;
+position:static;}
+.img1{background-color: #b6d2eb;
+width: 40%;
+float: left;
+height: 380pt;
+margin-left: 5%;}
+.img1 h4{padding-left: 10pt;}
+.img1 p{padding-left: 10pt;width:85%}
+.img2{background-color: #b6d2eb;
+width: 40%;
+height: 380pt;
+float: left;
+margin-left: 10%;
+}
+.img2 h4{padding-left: 10pt;}
+.img2 p{padding-left: 10pt;width:85%}
+.img3{background-color: #b6d2eb;
+width: 40%;
+height: 380pt;
+float: left;
+margin-left: 5%;
+margin-top: 3%;
+}
+.img3 h4{padding-left: 10pt;}
+.img3 p{padding-left: 10pt;width:85%}
+.img4{background-color: #b6d2eb;
+width: 40%;
+height: 380pt;
+float: left;
+margin-left: 10%;
+    margin-top: 3%;
+}
+.img4 h4{padding-left: 10pt;}
+.img4 p{padding-left: 10pt;width:85%}
+
+.textpost{text-align: center;
+line-height:1pt;
+    margin-top: 1150px;}
+.text1{width:30%; background-color: aliceblue;float:left;margin-left: 30pt;}
+.text1 h3{text-align: center;}
+.text1 p{padding-left: 10pt;width: 90%}
+.text2{width:30%; background-color: aliceblue;float:left;margin-left: 15pt;}
+.text2 h3{text-align: center;}
+.text2 p{padding-left: 10pt;width: 90%}
+.text3{width:30%; background-color: aliceblue;float:left;margin-left: 15pt;}
+.text3 h3{text-align: center;}
+.text p{padding-left: 10pt;width: 90%}
+.footer { margin-top: 30em;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+body{background-image:url(S6zUsH8.jpg)

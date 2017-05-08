@@ -1,0 +1,47 @@
+
+h1{position: fixed;
+	top:350px;
+	left:63%;
+	margin-left:-254px;
+    border: 5px solid;
+border-color: chartreuse;
+font-family: fantasy;
+color: red;}
+h4{position: fixed;
+	top:405px;
+	left:75%;
+	margin-left:-254px;
+color: red;}
+#first {
+	position: fixed;
+	top:320px;
+	left:70%;letter-spacing: 20px
+    }
+#second {
+	position: fixed;
+	top:100px;
+	left:40%;
+    letter-spacing: 20px;
+color: deepskyblue}
+#third {
+	position: fixed;
+	top:300px;
+	left:10%
+        ;letter-spacing: 20px;color: fuchsia
+    }
+#fourth {
+	position: fixed;
+	top:500px;
+	left:10%;letter-spacing: 20px;
+    color: darkslateblue;
+    }
+#fifth {
+	position: fixed;
+	top:600px;
+	left:40%;letter-spacing: 20px; color: darkgreen }
+#sixth {
+	position: fixed;
+	top:500px;
+	left:70%;letter-spacing: 20px;
+    color:firebrick}
+body{background-color: floralwhite}

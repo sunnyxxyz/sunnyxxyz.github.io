@@ -1,0 +1,23 @@
+body{background-color:gainsboro;}
+h1{
+padding-left: 300px;
+    color:blue;
+    font-size:9em;
+    font-family:times;
+}
+h4{padding-left: 1000px;
+    color:blue;
+    font-family:times;
+    font-size: 4em;
+    
+    
+}
+#first{padding-left: 200px;
+color:lightsteelblue; letter-spacing:10px;font-size: 30px;}
+#second{padding-left: 860px;color:skyblue;letter-spacing:10px;font-size: 30px;
+}
+#third{padding-left: 300px;color: cornflowerblue;letter-spacing:10px;font-size: 30px;
+}
+#fourth{padding-left: 600px;color: deepskyblue;letter-spacing:10px;font-size: 30px;}
+#fifth{padding-left: 100px;color: dodgerblue;letter-spacing:10px;font-size: 30px;}
+#sixth{padding-left: 800px;color: mediumblue;letter-spacing:10px;font-size: 30px;}

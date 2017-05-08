@@ -1,0 +1,28 @@
+h1 {position: fixed
+	padding-top: 70px;
+	padding-bottom: 0px;
+    ;
+    
+}
+
+
+h5{padding-top: 0px;
+	padding-bottom: 25px;}
+#left{
+	width: 40%;
+    height: auto;
+    float: left;
+    padding-left: 15px;
+border: 2px solid;
+	border-radius: 15px}
+#right{
+	width: 40%;
+     height: auto;
+    float:left;border: 2px solid;
+	border-radius: 15px;
+padding-left: 15px;}
+#apple{padding-top: 300px;
+    border: 6px solid;
+        border-radius: 15px;
+    padding-left: 300px;
+}

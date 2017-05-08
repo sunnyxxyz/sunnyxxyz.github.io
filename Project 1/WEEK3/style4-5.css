@@ -1,0 +1,14 @@
+#left{;
+float:left;
+padding-left: 35%;
+width: 170px;
+border: 2px dashed;border-color:cadetblue;color:burlywood}
+#right{
+padding-top: %;color: aliceblue}
+h1{padding-left: 50%;font-family: Verdana;font-size: 10em;color: aliceblue;}
+h5{padding-left: 60%;font-family: Verdana;font-size: 3em;color: azure}
+#apple{position: relative;
+float:left;
+padding-left: 50%;
+    width: 170px;color: aliceblue;}
+body{background-color: blueviolet}

@@ -1,0 +1,82 @@
+/* force scrollbar, prevents initial gap */
+
+html {
+  overflow-y: scroll; 
+}
+
+* { box-sizing: border-box; }
+
+a {
+ text-decoration: none;
+ color:black;
+}
+
+a:hover {
+    color: dodgerblue;
+}
+
+body{background-color: white;}
+.header{font-family:Bebas Neue;letter-spacing:1px;
+    line-height: 0px;background-color: white;
+text-decoration: none;
+    margin-left: 2.5%;
+    width:22.5%;
+    height: 1400px;
+    position: fixed;
+    
+    
+}
+.header h1{font-size: 65px;margin-left: 12%;}
+
+.header p{font-size: 15px;margin-left: 12%;padding-top: 9px;}
+.header h3{margin-top: 20%;line-height: 25px;font-size: 25px;margin-left: 12%;}
+.header h5{font-size: 25px;line-height: 20px;margin-top: 20px;margin-left: 12%;}
+.header h2{font-size: 200px;padding-left: 10%;color:rgba(100, 149, 237, 0.34);}
+
+
+
+
+
+
+
+
+
+
+.masonry  {
+margin-right: 20px;
+  max-width: 8000px;
+  background: ;
+    margin-left: 30%;
+}	
+.masonry .grid-sizer,
+.masonry .grid-item { 
+	width: 50%;
+}
+.masonry .grid-item {
+	padding: 5px;
+}
+.masonry.single .grid-item {
+}
+
+.masonry .grid-item a,
+.masonry .grid-item img {
+	display:block;	
+}
+.masonry .grid-item img,
+.masonry .grid-item video {
+	width:100%;	
+	height:auto;
+}
+.masonry .grid-item img,
+.masonry .grid-item video {
+	cursor:pointer!important;	
+}
+
+.masonry .grid-item a {
+  text-decoration: none;
+}
+
+.poster {
+    margin-bottom: 100px;
+}
+

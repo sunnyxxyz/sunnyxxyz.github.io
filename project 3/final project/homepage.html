@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="homepage.css">
+    <title>Sunny Portfolio</title>
+    
+</head>
+
+<body>
+   <header>
+    <div class="header">
+    <h1>SUNNY</h1>
+    <h6></h6>
+    <p>Graphic Designer</p>
+        <h3><a href="homepage.html">Home</a><br><a href="homepage.html">Works</a><br><a href="about.html">About</a></h3>
+        <h5><a href="resume.pdf">Download Resume</a><br>Contact</h5>
+        <h2>Home</h2>
+    </div>
+    </header>
+    
+    <div class="masonry">
+        <div class="grid-sizer"></div>
+        
+        <div class="grid-item img1">
+            <a href="works%20no%20space.html">
+                <img alt="img1"src="2.jpg">
+            </a>
+        </div>
+        
+        <div class="grid-item img2">
+            <a href="workripup.html">
+                <img alt="img1"src="mock%20up%20.jpg">
+            </a>
+        </div>
+        
+        <div class="grid-item img3">
+            <a href="mple.html">
+                <img alt="img1"src="2323.jpg">
+            </a>
+        </div>
+        
+        <div class="grid-item img4">
+            <a href="works.html">
+                <img alt="img1"src="2%202.jpg">
+            </a>
+        </div>
+        
+        <div class="grid-item img5">
+            <a href="works%20meille.html">
+                <img alt="img1"src="I%20+S%20poster%20.jpg">
+            </a>
+        </div>
+                <div class="grid-item img6">
+            <a href="workidbook.html">
+                <img alt="img1"src="I%20=S%20Cover%20Opening%20-%20freebie%20-%20originalmockups.com.jpg">
+            </a>
+        </div>
+               <div class="grid-item img7">
+            <a href="chicken2017.html">
+                <img alt="img1"src="chicken%20sketch%20.jpg">
+            </a>
+              </div>      
+                   <div class="grid-item img8">
+            <a href="works.html">
+                <img alt="img1"src="zara.jpg">
+            </a>
+      
+        </div>
+        
+    </div>
+   
+    
+  <!--
+  
+   <div id="img2"><img alt="img2"src="mock%20up%20.jpg"></div></td>
+    <td colspan="2"><div id="img3"><img alt="img3"src="2323.jpg"></div>
+   <div id="img4"><img alt="img4"src="2%202.jpg"></div></td>
+        </tr>
+        <tr>
+    <td colspan="2"><div id="img5"><img alt="img5"src="I%20+S%20poster%20.jpg"></div>
+   <div id="img6"><img alt="img6"src="I%20=S%20Cover%20Opening%20-%20freebie%20-%20originalmockups.com.jpg"></div></td>
+        </tr>
+        <tr>
+             <td colspan="2"><div id="img7"><img alt="img7"src="chicken%20sketch%20.jpg"></div>
+   <div id="img8"><img alt="img8"src="zara.jpg"></div></td>
+        </tr>
+        
+        -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="//npmcdn.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+    <script src="https://unpkg.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+    <script>
+        // external js: isotope.pkgd.js
+
+        // init Isotope
+        var $grid = $('.masonry').isotope({
+          itemSelector: '.grid-item',
+          percentPosition: true,
+          masonry: {
+            columnWidth: '.grid-sizer'
+          }
+        });
+        // layout Isotope after each image loads
+        $grid.imagesLoaded().progress( function() {
+          $grid.isotope('layout');
+        });  
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+h1 {
+	padding-top: 50px;
+	padding-bottom: 25px;
+    float: left;
+    font-family:Gill Sans;
+	font-size: 15em;
+    color: whitesmoke
+    
+}
+
+
+h5{padding-top: 50px;
+	padding-bottom: 25px;
+    font-family:Gill Sans;
+	font-size: 5em;color: whitesmoke;
+float:right;}
+Body {background-color: black}
+#left{
+	width: 60%;
+    height: auto;
+    float: left;
+    letter-spacing: 10 px;
+    color: whitesmoke;
+    font-size: 5em; 
+    font-family: monospace;}
+#right{
+	width: 40%;
+     height: auto;
+    float:none;
+letter-spacing: 10px;
+    font-family:sans-serif; 
+    font-size: 2em;
+    padding-left: 25em;
+    padding-top:58em;
+color: orange;}

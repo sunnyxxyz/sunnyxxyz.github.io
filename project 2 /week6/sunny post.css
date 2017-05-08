@@ -1,0 +1,64 @@
+body{background-color:gainsboro;}
+h2{font-family: Helvetica, arial, sans-serif;
+color:black;
+padding-left:50%;
+position: fixed;
+margin-top: 8px;}
+
+.search img{padding-left:95%;
+width:2.5em;
+height: 2.5em;
+padding-top:5px;
+position:fixed;}
+
+.bar img{padding-left: 5%;
+width:2.5em;
+height: 2.5em;
+padding-top:5px;}
+
+.kw {padding-left: 20%;
+background-color: white;
+font-family: Helvetica, arial, sans-serif;
+color:rgba(56, 56, 216, 0.83);
+}
+H3{font-family: Helvetica, arial, sans-serif;
+color:black;
+    font-size: 4em;
+    padding-left:50%;}
+P{float: inherit;
+width: 40em;}
+.small{border: 20px solid white;
+width:50em;
+background-color: white;
+margin-left: 8%;
+font-family: Helvetica, arial, sans-serif;}
+
+h1{float:right;
+padding-right: 45%;
+font-family: Helvetica, arial, sans-serif;
+font-size: 4em;}
+H5{border:2px solid blue;
+background-color: blue;
+color: aliceblue;
+width: 10em;
+height: 3em;
+margin-left: 80%}
+
+.small2{border: 20px solid white;
+width:40em;
+background-color: white;
+margin-left: 20%;
+    margin-top: 20px;
+font-family: Helvetica, arial, sans-serif;}
+
+
+.img{border: 20px solid white;
+width:12em;
+margin-top: 20px;
+margin-left: 60px;}
+
+h4{font-size: 4em;}
+footer{font-family: Helvetica, arial, sans-serif;
+padding-top: 2em;}
+h6{font-size: 1em;}
+footer p{word-spacing:2em;}

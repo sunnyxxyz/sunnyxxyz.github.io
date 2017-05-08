@@ -1,0 +1,22 @@
+h1{font-size: 10em;
+font-family: sans-serif;
+color:yellow;}
+h5{font-size: 3em;
+padding-left: 20em;
+font-family: sans-serif;
+color: #fff500;}
+#left{color: red;
+      border: dashed yellow;
+      width: 15%;
+}
+#apple{color: aqua; 
+    width:15%;
+    border: dashed yellow;
+    margin-left: 50ex;
+margin-top: 10ex}
+#right{color: yellow;
+width: 15%;
+border:dashed yellow;
+    margin-top: 10ex;
+}
+body{background-color: black}
